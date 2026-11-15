@@ -1,0 +1,19 @@
+# OS clutter
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Scratch space for level passwords and captures — never committed
+passwords.txt
+scratch/
+tmp/
+*.log
